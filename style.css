@@ -1,0 +1,6 @@
+input[type=radio]{
+    accent-color: green;
+}
+html{
+    scroll-behavior: smooth;
+}
